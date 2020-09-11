@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80c3516d-5aef-4342-8a69-cf52219128bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/alphabet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/faveicon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/hand-note.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/note-paper-.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/note.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/notetask.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/static/images/alphabet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/static/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/static/images/hand-note.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/static/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/static/images/note.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/static/images/notepaper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/static/images/notetask.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tsakmate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/asgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taskmate/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/migrations/0002_tasklist_manager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/migrations/0003_auto_20200908_0050.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/templates/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/templates/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/templates/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/templates/todolist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolist_app/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/templates/logout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/templates/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users_app/views.py" />
-    </list>
+    <list default="true" id="80c3516d-5aef-4342-8a69-cf52219128bc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
