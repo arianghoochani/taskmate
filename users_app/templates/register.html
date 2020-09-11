@@ -1,0 +1,38 @@
+{%extends 'base.html'%}
+{% load crispy_forms_tags %}
+
+{%block title%}
+<title> account Registration -task</title>
+{%endblock title%}
+<div class="container">
+
+
+
+
+
+
+{%block content%}
+
+    <h2>Register in TaskMate</h2>
+
+{% if messages %}
+{% for message in messages %}
+
+<div class="alert alert-primary" role="alert">
+
+<
+    {{message}}
+</div>
+
+{% endfor %}
+{% endif %}
+<form method="POST" class="mt-5 col-6">
+    {% csrf_token%}
+    {{register_form|crispy}}
+    <button  class="btn btn-primary mb5" type="submit">Register</button>
+
+</form>
+    </div>
+
+{%endblock content%}
+

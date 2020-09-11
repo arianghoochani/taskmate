@@ -1,0 +1,37 @@
+{%extends 'base.html'%}
+{% load static %}
+{%block title%}
+<title>welcome task mate</title>
+{%endblock title%}
+{%block content%}
+<div class="container">
+<div class="row mt-5" >
+    <div class="col-lg-4">
+        <img src="{% static 'images/note.jpg'%}" alt="Notes" class="rounded-lg shadow-sm" width="360" height="250">
+
+    </div>
+     <div class="col-lg-4">
+           <img src="{% static 'images/notetask.jpg'%}" alt="Notes" class="rounded-lg shadow-sm" width="360" height="250">
+
+    </div>
+     <div class="col-lg-4">
+           <img src="{% static 'images/hand-note.jpg'%}" alt="Notes" class="rounded-lg shadow-sm" width="360" height="250">
+
+    </div>
+    <div class="row mt-5">
+        <div class="col-md-10 offset-md-1">
+        <center><p class="h1 text-primary"> quick and easy to use</p></center>
+        </div>
+         <div class="col-md-6 offset-md-3">
+        <center><p class="h2 mt-3"> plan all your programms</p></center>
+         </div>
+        <div class="col-md-6 offset-md-3">
+        <center><p class="h5"> use your time in correct way</p></center>
+            <center><a href="{% url 'todolist'%}"><button type="button" class="btn btn-primary btn-lg mt-3 shadow p"> Let's get started! </button> </a></center>
+         </div>
+
+
+
+</div>
+</div>
+{%endblock content%}
