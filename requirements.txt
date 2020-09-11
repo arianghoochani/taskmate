@@ -55,7 +55,6 @@ Pygments==2.6.1
 pyparsing==2.4.6
 pyrsistent==0.15.7
 python-dateutil==2.6.1
-pywin32==224
 pywinpty==0.5.7
 pyzmq==19.0.0
 requests==2.24.0
